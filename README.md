@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on reigniting my passion for software development.<br>🌱 I’m currently learning Software Architecture and Design  
+🔭 I'm an IT professional focused on systems, troubleshooting, and enterprise technology. I enjoy understanding how complex systems work, solving technical challenges, and improving the processes that help organizations operate effectively. My interests include healthcare IT, cybersecurity, identity and access management, and systems administration, with a commitment to continuous learning and professional growth.
+
 
 
 ## 🌐 Socials:
