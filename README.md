@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Cameron Hilliard</h1>
-<h3 align="center">IT Professional • Cloud • Identity & Access • Security</h3>
+<h3 align="center">IT Professional • Cloud Infrastructure • Identity & Access • Security</h3>
 
 ## 📌 About Me
-- I'm an IT professional with enterprise support experience, moving deeper into cloud administration, identity and access management, and security operations. I enjoy breaking down complex systems and making technology work reliably for the people who depend on it.
-- Background in enterprise IT support and healthcare software environments, now building hands-on skills in Microsoft Azure, Microsoft Entra ID, and automation.
+- I'm an IT professional with enterprise support experience, moving deeper into cloud infrastructure, systems administration, and identity and access management. I enjoy breaking down complex systems and making technology work reliably for the people who depend on it.
+- Background in enterprise IT support and healthcare software environments, now building hands-on skills in Microsoft Azure, Microsoft Entra ID, and enterprise systems administration.
 
 ## 🧠 My Focus Areas
-- Cloud Administration (Microsoft Azure)
+- Cloud Infrastructure (Microsoft Azure)
+- Systems & Server Administration
+- Networking & Virtualization
 - Identity & Access Management (Microsoft Entra ID, RBAC, Conditional Access)
 - Cybersecurity & Security Operations
-- Systems Administration & Enterprise Systems
-- Automation (PowerShell)
 - IT Operations
 
 ## 📚 Currently Learning
