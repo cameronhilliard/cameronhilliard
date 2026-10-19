@@ -30,7 +30,3 @@ Currently exploring ServiceNow, App Engine, Flow Designer, JavaScript, and REST 
   <a href="https://www.linkedin.com/in/camhilliard"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Cameron Hilliard's LinkedIn"/></a>&nbsp;&nbsp;
   <a href="https://www.cameronhilliard.com"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
