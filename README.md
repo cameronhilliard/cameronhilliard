@@ -1,22 +1,31 @@
 <h1 align="center">Hi 👋, I'm Cameron Hilliard</h1>
-<h3 align="center">IT Professional • Cloud Infrastructure • Identity & Access • Security</h3>
+<h3 align="center">IT Professional | IT Service Management | Workflow Automation | Enterprise Systems</h3>
 
 ## 📌 About Me
-- I'm an IT professional with enterprise support experience, moving deeper into cloud infrastructure, systems administration, and identity and access management. I enjoy breaking down complex systems and making technology work reliably for the people who depend on it.
-- Background in enterprise IT support and healthcare software environments, now building hands-on skills in Microsoft Azure, Microsoft Entra ID, and enterprise systems administration.
+I'm an IT professional with experience in enterprise technical support, healthcare technology, and IT operations.
+
+My interests are centered around IT Service Management (ITSM), workflow automation, and improving how technology services operate.
+
+I enjoy understanding how systems work, troubleshooting problems, and finding opportunities to simplify repetitive processes through automation.
+
+Currently, I'm expanding my practical knowledge of ServiceNow, application development, and ITSM workflows.
 
 ## 🧠 My Focus Areas
-- Cloud Infrastructure (Microsoft Azure)
-- Systems & Server Administration
-- Networking & Virtualization
-- Identity & Access Management (Microsoft Entra ID, RBAC, Conditional Access)
-- Cybersecurity & Security Operations
-- IT Operations
+- IT Service Management (ITSM) & ITIL Practices
+- Workflow Automation & Process Improvement
+- ServiceNow Platform & App Engine
+- IT Operations & Enterprise Systems
+- Scripting, APIs & Systems Integration
 
 ## 📚 Currently Learning
-- CompTIA Security+ — in progress
-- Microsoft Azure Administrator (AZ-104) — planned
-- Microsoft Identity and Access Administrator (SC-300) — planned
+- ServiceNow Platform Fundamentals
+- ServiceNow App Engine & Flow Designer
+- JavaScript for Workflow Automation
+- REST APIs & Systems Integration
+- ITSM Process Design & Automation
+
+🏅 Certifications
+- ITIL 4 Foundation
 
 ## 🔗 Connect with Me
 <p align="center">
