@@ -4,11 +4,9 @@
 ## 📌 About Me
 I'm an IT professional with experience in enterprise technical support, healthcare technology, and IT operations.
 
-My interests are centered around IT Service Management (ITSM), workflow automation, and improving how technology services operate.
+My interests include IT Service Management (ITSM), workflow automation, and enterprise systems. I enjoy troubleshooting complex problems, improving processes, and developing solutions that reduce repetitive work.
 
-I enjoy understanding how systems work, troubleshooting problems, and finding opportunities to simplify repetitive processes through automation.
-
-Currently, I'm expanding my practical knowledge of ServiceNow, application development, and ITSM workflows.
+Currently exploring ServiceNow, App Engine, Flow Designer, JavaScript, and REST API integrations to strengthen my skills in automation and application development.
 
 ## 🧠 My Focus Areas
 - IT Service Management (ITSM) & ITIL Practices
@@ -24,7 +22,7 @@ Currently, I'm expanding my practical knowledge of ServiceNow, application devel
 - REST APIs & Systems Integration
 - ITSM Process Design & Automation
 
-🏅 Certifications
+## 🏅 Certifications
 - ITIL 4 Foundation
 
 ## 🔗 Connect with Me
