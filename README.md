@@ -15,7 +15,7 @@ Currently exploring ServiceNow, App Engine, Flow Designer, JavaScript, and REST 
 - IT Operations & Enterprise Systems
 - Scripting, APIs & Systems Integration
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 - ServiceNow Platform Fundamentals
 - ServiceNow App Engine & Flow Designer
 - JavaScript for Workflow Automation
